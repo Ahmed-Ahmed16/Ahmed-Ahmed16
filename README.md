@@ -41,7 +41,7 @@ Since September 2026, I have been learning DevOps on the job, on a real platform
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,js,html,css,docker,githubactions,php,laravel&perline=5" alt="Python, TypeScript, C++, JavaScript, HTML, CSS, Docker, GitHub Actions, PHP, Laravel">
+  <img src="https://skillicons.dev/icons?i=py,docker,githubactions,php,laravel&perline=5" alt="Python,Docker, GitHub Actions, PHP, Laravel">
 </p>
 
 Playwright, TestSprite, PHPUnit, MariaDB, and gitleaks.
