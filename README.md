@@ -11,7 +11,6 @@ I orchestrate AI agents, research security with permission, and learn DevOps on 
 🌱 **In 3 months, I went from single chats to a working system of agent lanes, delegation, reviews**
 
 * I run work across Claude, OpenAI Codex, Grok, OpenCode, and Antigravity.
-* I use and configure [amElnagdy's open source delegate skills](https://github.com/amElnagdy/delegate-skills) to route tasks by type and quota, then review each result before it lands.
 * I write my own agent skills: 36 new and 5 reworked on 2026-09-14.
 * I use model versus model debates to challenge plans before building.
 
