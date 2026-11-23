@@ -8,19 +8,16 @@ I orchestrate AI agents, research security with permission, and learn DevOps on 
 
 ## 🤖 AI orchestration
 
-🌱 **In 3 months, I went from single chats to a working system of agent lanes, delegation, reviews, and 156 lessons.**
+🌱 **In 3 months, I went from single chats to a working system of agent lanes, delegation, reviews**
 
 * I run work across Claude, OpenAI Codex, Grok, OpenCode, and Antigravity.
 * I use and configure [amElnagdy's open source delegate skills](https://github.com/amElnagdy/delegate-skills) to route tasks by type and quota, then review each result before it lands.
 * I write my own agent skills: 36 new and 5 reworked on 2026-09-14.
 * I use model versus model debates to challenge plans before building.
-* My lessons system loads 156 recorded lessons at the start of every session.
 
 ## 🛡️ Security and networks
 
 * Evidence first security research toolkit for authorized bug bounty and penetration testing.
-* Daily security advisory tracking and a network research lane.
-* PortSwigger lab automation.
 * variOne is my CIC New Cairo graduation project, an ESP32-S3 wireless security awareness device for Wi-Fi, BLE, Sub-GHz, NFC and IR.
 
 ## 🚦 Learning DevOps
@@ -28,8 +25,6 @@ I orchestrate AI agents, research security with permission, and learn DevOps on 
 Since September 2026, I have been learning DevOps on the job, on a real platform's release path.
 
 * Built GitHub Actions checks: Composer validation and install, PHP syntax, Composer audit, Pint, and gitleaks.
-* Ran 9 PHPUnit tests on a MariaDB 10.6 service container matching production. All 9 pass with 40 assertions.
-* 🔒 A ruleset blocks merges into main and staging unless checks and the secret scan pass. A deliberately failing pull request proved it.
 * CI caught 3 problems before any deploy: missing Laravel runtime folders, a MySQL only migration SQLite could not run, and 2 stale tests.
 * Built with the AI flow above: Claude wrote briefs and reviewed, and OpenAI Codex wrote the workflow and tests.
 
