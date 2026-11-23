@@ -38,8 +38,6 @@ Since September 2026, I have been learning DevOps on the job, on a real platform
   <img src="https://skillicons.dev/icons?i=py,docker,githubactions,php,laravel&perline=5" alt="Python,Docker, GitHub Actions, PHP, Laravel">
 </p>
 
-Playwright, TestSprite, PHPUnit, MariaDB, and gitleaks.
-
 ## 🔗 Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmed-Ahmed16)
